@@ -1,4 +1,3 @@
-
 Example:	A-200 Shampoo Concentrate	guess=drug	gold=	confidence=0.999911230114652
 Example:	Acet-2	guess=drug	gold=	confidence=0.9981533656078218
 Example:	Actifed Cold & Sinus Caplets 26	guess=drug	gold=	confidence=0.9999632257078013
