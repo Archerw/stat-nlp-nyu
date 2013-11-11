@@ -1012,4 +1012,3 @@ S
 (S (NP (NNS Thanks)) (VP (PP (IN for) (NP (DT the) (NN link)))) (. .))
 (S (NP (NP (NNP Malach)) (, ,) (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP say))))) (VP (VBZ makes) (NP (NN sense))) (. .))
 (S (NP (CD Acquiring) (JJ open) (NN source) (NN talent)) (VP (VP (VBZ gives) (NP (DT a) (NN company)) (NP (DT an) (JJ inexpensive) (NN way)) (PP (IN of) (NP (NNP influencing)))) (CC and) (VP (VBG anticipating) (NP (DT the) (NN direction)) (S (NP (DT an) (JJ open) (NN source) (NN project)) (VP (MD will) (VP (VB go)))))) (. .))
-(S (NP (PRP It)) (ADVP (RB probably)) (VP (VP (VBZ gives) (ADJP (RBR more) (JJ bang) (PP (IN for) (NP (DT the) (NN buck)))) (SBAR (IN than) (S (VP (VBG acquiring) (NP (DT a) (JJ private) (NN company)))))) (CC and) (VP (VBG having) (VP (TO to) (VP (VB handle) (NP (NP (DT the) (JJ inevitable) (NN culture)) (NNS clashes) (CC and) (NN process) (NNS mis-matches)))))) (. .))
